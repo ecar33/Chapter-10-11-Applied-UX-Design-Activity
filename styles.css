@@ -166,6 +166,26 @@ body {
   color: #5f6b7a;
 }
 
+.calendar-actions {
+  margin-top: 10px;
+}
+
+.schedule-event-btn {
+  border: 1px solid #5f7b8f;
+  background: #5f7b8f;
+  color: #ffffff;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  line-height: 1.2;
+}
+
+.schedule-event-btn:hover {
+  background: #33434e;
+  border-color: #33434e;
+}
+
 .dashboard-content {
   padding: 16px;
 }
